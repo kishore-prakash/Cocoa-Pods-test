@@ -1,0 +1,16 @@
+PODS:
+  - LibJabraSwiftBindings (0.0.1)
+
+DEPENDENCIES:
+  - LibJabraSwiftBindings (from `/Users/kishore/work/Lib_link_eg/LibJabraSwiftBindings`)
+
+EXTERNAL SOURCES:
+  LibJabraSwiftBindings:
+    :path: /Users/kishore/work/Lib_link_eg/LibJabraSwiftBindings
+
+SPEC CHECKSUMS:
+  LibJabraSwiftBindings: 92ab55186f15eaff9dc513deca4ecc948b9c0d46
+
+PODFILE CHECKSUM: a16475b6b448b7dc67d1d237931bc02a0f57cdfc
+
+COCOAPODS: 1.2.1
